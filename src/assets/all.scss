@@ -1,0 +1,14 @@
+@import 'bootstrap/scss/functions';
+
+//  調整variables.scss 中的變數
+$primary: yellow;
+
+@import './variables';
+
+@import 'bootstrap/scss/bootstrap';
+
+// $primary-bg: green;
+
+// body{
+//     background-color: $primary-bg;
+// }
